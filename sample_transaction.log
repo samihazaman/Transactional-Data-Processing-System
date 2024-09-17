@@ -1,0 +1,8 @@
+2024-02-27 23:08:15.371 | ADD  |  14096595  |  Crewneck Sweater  |  Macy's |  Sweater  |  Women's  |  XS  |  XL  |  20  |  7  |  10  |  Karen Scott
+2024-02-27 23:08:15.378 | ADD  |  16083856  |  Nike Sneaker  |  Macy's |  Sneaker |  Adult  |  5  |  11  |  70  |  10  |  5  |  Nike
+2024-02-27 23:08:15.378 | ADD  |  10514485  |  Leather Crossbody  |  Macy's |  Bag  |  Women's |  N/A  |  N/A  |  295  |  295  |  5  |  Coach
+2024-02-27 23:08:15.378 | PRINT  |  11624238  |  Tea Rose Watch  |  Macy's  |  Watch  |  Women's  |  N/A  |  N/A  |  195  |  50  |  7  |  Coach
+2024-02-27 23:08:15.378 | MODIFY  |  16792684  |  Gold-tone Bangle Watch  |  Macy's  |  Watch  |  Women's  |  N/A  |  N/A  |  75  |  30  |  3  |  Anne Klein
+2024-02-27 23:08:15.378 | ADD  |  15531684  |  Button-Sleeve Flyaway Cardigan  |  Macy's  |  Cardigan  |  Women's  |  XS  |  XXL  |  60  |  20  |  12  |  JM Collection
+2024-02-27 23:08:15.378 | SEARCH  |  15531684  |  Button-Sleeve Flyaway Cardigan  |  Macy's  |  Cardigan  |  Women's  |  XS  |  XXL  |  60  |  20  |  12  |  JM Collection
+2024-02-27 23:08:15.378 | DELETE |  16083856  |  Nike Sneaker  |  Macy's |  Sneaker |  Adult  |  5  |  11  |  70  |  10  |  5  |  Nike
